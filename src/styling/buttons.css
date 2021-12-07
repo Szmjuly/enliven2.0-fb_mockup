@@ -1,0 +1,17 @@
+/* Delete Post Buttons */
+.dlt-post-btn-img-only {
+    position: relative;
+    margin-top: 12%;
+}
+
+.dlt-post-btn-txt-only {
+    position: relative;
+    margin-top: -8.5%;
+    margin-left: 92%;
+}
+
+.dlt-post-btn-txt-img {
+    position: relative;
+    margin-top: -8%;
+    /* margin-left: -275px; */
+}
